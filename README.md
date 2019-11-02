@@ -1,9 +1,5 @@
-# cProjects
-College Projects
-
-#Installation
-##Run
-###Usage
+# Server Client Model
+Simple demonstration of how a number of clients can communicate with a server using TCP and Sockets
 
 Installation
 ====================
