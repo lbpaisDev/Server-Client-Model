@@ -22,5 +22,6 @@ Usage
 Simply follow the instructions given on the client side
 
 authors
+===========
 @lbpaisDev
 @JoseDias
