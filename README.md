@@ -6,11 +6,13 @@ Installation
  *Must have gcc installed*
 
 Compile client: gcc client.c -o Client
+
 Compile Server: make
 
 Run
 =========
 ./Client
+
 ./Server
 
 Usage
