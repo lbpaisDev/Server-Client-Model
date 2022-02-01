@@ -1,5 +1,7 @@
 # Server Client Model
-Simple demonstration of how a number of clients can communicate with a server using TCP and Sockets
+Simple demonstration of how a client-server model works. 
+
+Implemented in C using the TCP protocol and the sockets library.
 
 Installation
 ====================
